@@ -1,4 +1,4 @@
-let users = [
+let data = [
     {
       "_id": "5a58d21ccb3c3f594dab0afc",
       "index": 0,
